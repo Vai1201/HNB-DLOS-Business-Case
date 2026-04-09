@@ -9,13 +9,13 @@ ________________________________________
 
 ## 🎯 Problem Statement
 The existing loan application process at HNB is heavily manual, fragmented, and time-consuming, leading to:
-•	⏱ Long processing times (7–14 days)
-•	📄 Paper-based application and document handling
-•	🔁 Redundant data entry across multiple systems
-•	📞 High operational overhead due to status inquiries
-•	🐢 Delays in credit checks and underwriting decisions
+1. ⏱ Long processing times (7–14 days)
+2. 📄 Paper-based application and document handling
+3. 🔁 Redundant data entry across multiple systems
+4. 📞 High operational overhead due to status inquiries
+5. 🐢 Delays in credit checks and underwriting decisions
 
-🔍 Approach
+🔍 
 This Projects follows a structured Business Analysis framework:
 1.	AS-IS Process Mapping
 2.	Pain Point Identification
@@ -31,12 +31,12 @@ ________________________________________
 ## 🧩 AS-IS Process (Current State)
 
 The current process involves multiple manual steps across stakeholders:
-•	Customer visits branch and fills a 12-page form
-•	Physical document submission and verification
-•	Manual data entry into LOS and CRM systems
-•	Email-based credit bureau requests
-•	Underwriting committee delays (3–5 days)
-•	Physical communication via postal letters
+1. Customer visits branch and fills a 12-page form
+2. Physical document submission and verification
+3. Manual data entry into LOS and CRM systems
+4. Email-based credit bureau requests
+5. Underwriting committee delays (3–5 days)
+6. Physical communication via postal letters
 📌 Key Insight:
 The process is fragmented, lacks integration, and is dependent on manual intervention at every stage.
 
@@ -46,19 +46,21 @@ ________________________________________
 
 ## 🧠 Prioritization (MoSCoW Framework)
 
-✅ MUST HAVE
-•	Digital application form
-•	Credit bureau API integration
-•	Document upload with OCR
-•	Decisioning engine
-•	Loan officer dashboard
-⚡ SHOULD HAVE
-•	SMS/Email notifications
-•	Application status tracker
-💡 COULD HAVE
-•	Mobile-native application
-❌ WON’T HAVE
-•	Blockchain-based document verification
+### ✅ MUST HAVE
+1. Digital application form
+2. Credit bureau API integration
+3. Document upload with OCR
+4. Decisioning engine
+5. Loan officer dashboard
+6. SHOULD HAVE
+7. SMS/Email notifications
+8. Application status tracker
+
+### 💡 COULD HAVE
+1. Mobile-native application
+
+### ❌ WON’T HAVE
+1. Blockchain-based document verification
 
 ![Loan Process Flow](product_design/MoSCoW.png)
 ________________________________________
@@ -66,12 +68,12 @@ ________________________________________
 ## 🔄 TO-BE Process (Future State)
 
 The redesigned process enables a seamless digital journey:
-•	Customer applies online via web/app
-•	Uploads documents digitally (OCR-enabled)
-•	System performs instant credit checks via API
-•	Automated decisioning engine processes application
-•	Real-time status updates provided to customer
-•	E-signature completes the process without branch visits
+1. Customer applies online via web/app
+2. Uploads documents digitally (OCR-enabled)
+3. System performs instant credit checks via API
+4. Automated decisioning engine processes application
+5. Real-time status updates provided to customer
+6. E-signature completes the process without branch visits
 📌 Key Outcome:
 A fully digital, integrated, and automated loan origination workflow.
 
@@ -109,30 +111,30 @@ JIRA with Kanban boards streamlines project tracking, visualizes workflow, and h
 ________________________________________
 
 ## 🧾 Key Deliverables
-•	AS-IS & TO-BE Swimlane Diagrams
-•	Pain Point Analysis Dashboard
-•	Gap Analysis Matrix
-•	Stakeholder Register
-•	RACI + Communication Plan
-•	MoSCoW Prioritization
-•	Epic Planning
-•	Sprint Planning
-•	User Stories & Functional Requirements
+1. AS-IS & TO-BE Swimlane Diagrams
+2. Pain Point Analysis Dashboard
+3. Gap Analysis Matrix
+4. Stakeholder Register
+5. RACI + Communication Plan
+6. MoSCoW Prioritization
+7. Epic Planning
+8. Sprint Planning
+9. User Stories & Functional Requirements
 ________________________________________
 
 ## 🛠 Tools & Techniques Used
-•	Figma (Process flows & visualizations)
-•	MoSCoW Prioritization
-•	Gap Analysis
-•	Stakeholder Analysis
-•	Process Modeling (Swimlanes)
+1. Figma (Process flows & visualizations)
+2. MoSCoW Prioritization
+3. Gap Analysis
+4. Stakeholder Analysis
+5. Process Modeling (Swimlanes)
 ________________________________________
 
 ## 💡 Key Learnings
-•	Digital transformation requires both process redesign and system integration
-•	Identifying root causes is critical before proposing solutions
-•	Prioritization frameworks ensure focused and realistic delivery
-•	Customer experience is a key driver in modern system design
+1. Digital transformation requires both process redesign and system integration
+2. Identifying root causes is critical before proposing solutions
+3. Prioritization frameworks ensure focused and realistic delivery
+4. Customer experience is a key driver in modern system design.
 ________________________________________
 
 ## 📂 Repository Structure
