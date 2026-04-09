@@ -139,10 +139,10 @@ ________________________________________
 
 ## 📂 Repository Structure
 
-/Agile_Delievery → Epics + US planning, kanban board
-/Business Documents → BRD, Agile Release Roadmap
-/Executive Summary → Executive Summary
-/process_flows → AS_IS Process, TO_BE Process, Loan Process Flow
-/Product Design → MoSCoW Priroitization, System Integration, Process Flow
-/Stakeholder Analysis → Stakeholder matrix, Stakholder Context, RACI + Communication Plan, Stakeholder Register
+1. /Agile_Delievery → Epics + US planning, kanban board
+2. /Business Documents → BRD, Agile Release Roadmap
+3. /Executive Summary → Executive Summary
+4. /process_flows → AS_IS Process, TO_BE Process, Loan Process Flow
+5. /Product Design → MoSCoW Priroitization, System Integration, Process Flow
+6. /Stakeholder Analysis → Stakeholder matrix, Stakholder Context, RACI + Communication Plan, Stakeholder Register
 ________________________________________
