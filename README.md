@@ -89,7 +89,7 @@ ________________________________________
 ## Swimlane Description of the Future State
 Swimlane Description of the Future State. Customers apply via HNB website/app with an intelligent, multi-step wizard; documents are uploaded digitally, and data auto-populates for existing users. Automated credit checks and a decision engine handle approvals, referrals, or declines instantly, while loan officers review edge cases through a dashboard. Customers sign agreements electronically and track status 24/7.
 
-![Loan Process Flow](product_Design/process_flow_diagram.png)
+![Loan Process Flow](product_design/process_flow_diagram.png)
 
 ________________________________________
 
@@ -97,7 +97,7 @@ ________________________________________
 
 The DLOS is treated as a single “black box” system interacting with external entities. Customers submit applications and documents, receive status updates, and e-sign agreements. External systems like Experian/Equifax, FiServ Core Banking, OpenText DMS, DocuSign, and Twilio/SendGrid exchange credit data, profile info, documents, and notifications. Loan officers interact internally to review, annotate, and make decisions.
 
-![Loan Process Flow](product_Design/system_integration_diagram.png)
+![Loan Process Flow](product_design/system_integration_diagram.png)
 ________________________________________
 
 ## ⚡ Importance of JIRA & Kanban
