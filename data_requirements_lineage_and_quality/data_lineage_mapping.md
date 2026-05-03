@@ -14,7 +14,7 @@ This document captures selective field-level data lineage for critical fields in
 
 The following mapping defines the source system for each dataset:
 
-| Dataset           | Source System           |
+| Dataset           | Upstream System           |
 | ----------------- | ----------------------- |
 | loan_applications | Application Form System |
 | credit_scores     | Credit Bureau System    |
