@@ -91,10 +91,10 @@ JIRA with Kanban boards streamlines project tracking, visualizes workflow, and h
 
 Execution was managed using Agile practices:
 
-### Epics & User Stories
+### Epics
 ![Loan Process Flow](agile_delievery_planning/Epics.png)
 
-### Sprint Planning
+### User Stories
 ![Loan Process Flow](agile_delievery_planning/US_Planning.png)
 
 ### Kanban Board
