@@ -47,14 +47,22 @@ ________________________________________
 
 Key stakeholders are identified based on their power and interest in the project, guiding engagement strategy. High-power, high-interest stakeholders are closely managed, while low-power/low-interest stakeholders are monitored. This ensures effective communication and prioritization throughout the project lifecycle.
 
+![Loan Process Flow](stakeholder_analysis/stakeholder_context_visual.png)
+
+
+### 👉 Supporting artifacts created:
+
+#### Stakeholder Matrix
 ![Loan Process Flow](stakeholder_analysis/stakeholder_matrix.png)
 
+#### Stakeholder Register
+![Loan Process Flow](stakeholder_analysis/StakeholderRegister.png)
 
-👉 Supporting artifacts created:
+#### Communication Plan
+![Loan Process Flow](stakeholder_analysis/commPlan.png)
 
-Stakeholder Register
-RACI Matrix
-Communication Plan
+#### RACI Matrix
+![Loan Process Flow](stakeholder_analysis/RACI_matrix.png)
 ________________________________________
 
 ## 🧠 Prioritization (MoSCoW Framework)
@@ -62,7 +70,7 @@ ________________________________________
 ![Loan Process Flow](product_design/MoSCoW.png)
 ________________________________________
 
-## Context Diagram (DFD Level 0) – System Boundary
+## Context Diagram – System Boundary
 
 The DLOS is treated as a single “black box” system interacting with external entities. Customers submit applications and documents, receive status updates, and e-sign agreements. External systems like Experian/Equifax, FiServ Core Banking, OpenText DMS, DocuSign, and Twilio/SendGrid exchange credit data, profile info, documents, and notifications. Loan officers interact internally to review, annotate, and make decisions.
 
@@ -84,13 +92,13 @@ JIRA with Kanban boards streamlines project tracking, visualizes workflow, and h
 Execution was managed using Agile practices:
 
 ### Epics & User Stories
-
+![Loan Process Flow](agile_delievery_planning/Epics.png)
 
 ### Sprint Planning
-
+![Loan Process Flow](agile_delievery_planning/US_Planning.png)
 
 ### Kanban Board
-![Loan Process Flow](Agile_Delievery/JIRA_Board%20_Kanban.png)
+![Loan Process Flow](agile_delievery_planning/JIRA_Board_Kanban.png)
 ________________________________________
 
 ## 🧾 Key Deliverables
